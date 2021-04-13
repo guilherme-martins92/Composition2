@@ -1,0 +1,13 @@
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\obj\Debug\netcoreapp3.1\Exercicio2StringBuilder.csprojAssemblyReference.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\obj\Debug\netcoreapp3.1\Exercicio2StringBuilder.AssemblyInfoInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\obj\Debug\netcoreapp3.1\Exercicio2StringBuilder.AssemblyInfo.cs
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\obj\Debug\netcoreapp3.1\Exercicio2StringBuilder.csproj.CoreCompileInputs.cache
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\bin\Debug\netcoreapp3.1\Exercicio2StringBuilder.exe
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\bin\Debug\netcoreapp3.1\Exercicio2StringBuilder.deps.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\bin\Debug\netcoreapp3.1\Exercicio2StringBuilder.runtimeconfig.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\bin\Debug\netcoreapp3.1\Exercicio2StringBuilder.runtimeconfig.dev.json
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\bin\Debug\netcoreapp3.1\Exercicio2StringBuilder.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\bin\Debug\netcoreapp3.1\Exercicio2StringBuilder.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\obj\Debug\netcoreapp3.1\Exercicio2StringBuilder.dll
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\obj\Debug\netcoreapp3.1\Exercicio2StringBuilder.pdb
+F:\Cursos\C# COMPLETO 2020 Programação Orientada a Objetos + Projetos\Exercicios\Exercicio2StringBuilder\Exercicio2StringBuilder\obj\Debug\netcoreapp3.1\Exercicio2StringBuilder.genruntimeconfig.cache
